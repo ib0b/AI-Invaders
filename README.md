@@ -1,6 +1,7 @@
 # AI Invaders
 
 AI invaders is an AI that plays the game space invaders without human interaction while achieving better than average human performance
+![demo](https://user-images.githubusercontent.com/18010106/123296610-75ae6d00-d51f-11eb-9a53-58e16c743295.gif)
 
 ## Introduction
 
