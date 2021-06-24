@@ -52,7 +52,9 @@ To play the game manually (as a human player)
 
 ## Additional Details
 
-The trained.h5 contains trained model weights - trained for about 12hrs on colab K80. Reward modelling was difficult, but based on my research the optimal reward model was to limit the amount of bullets, and give a score based on ammo left. Reinforcing accurate and efficient shooting.
+The trained.h5 contains trained model weights - trained for about 100hrs on colab K80. Reward modelling was difficult, but based on my research the optimal reward model was to limit the amount of bullets, and give a score based on ammo left. Reinforcing accurate and efficient shooting.
+
+The repo also includes game.py , which is a custom implementation of space invaders that allows for reward modelling and fast environment sampling during training.
 
 ## References
 
