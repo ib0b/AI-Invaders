@@ -34,12 +34,12 @@ git clone https://github.com/updatesvc/AI-Invaders.git
 
 ## 1. Train Mode
 
-Open the “Agent training notebook” in jupyter and run it.
+Open the [“Agent training notebook”](https://github.com/updatesvc/AI-Invaders/blob/master/Agent%20training%20notebook.ipynb) in jupyter and run it.
 It will periodically save the model’s weights in a file
 
 ## 2. Play/Test Mode
 
-Open the “Notebook for running Agent” in jupyter and run it.
+Open the [“Notebook for running Agent”](https://github.com/updatesvc/AI-Invaders/blob/master/Notebook%20for%20running%20Agent.ipynb) in jupyter and run it.
 
 To stop the bot, click the stop button of the notebook – due to pygame limitations you can not stop using the X button of the game when testing the trained agent, and to exit completely restart the python kernel or alternatively stop it by exiting jupyter kernel
 
